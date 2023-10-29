@@ -1,2 +1,2 @@
 # Utils-for-DS
-Function for EDA
+Functions for EDA
